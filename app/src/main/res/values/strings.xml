@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <string name="nothing">You know nothing…</string>
+    <string name="event">What is the name of this event?</string>
+    <string name="check_if_true">Check if true:</string>
+    <string name="quiz">Quiz</string>
+    <string name="start">Start</string>
+    <string name="the_same_picture">Are these two pictures exactly the same?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="fox_say">- What does the Fox say?</string>
+    <string name="congratulations">Congratulations! You solved the quiz!\nYou are now invisible!</string>
+    <string name="harry">Merlin is a child of Harry Potter</string>
+    <string name="hulk">Hulk and Shrek have the same father</string>
+    <string name="plowing">Plowing is like a Panda but in the water</string>
+    <string name="dove">Dove is a kind of punishment</string>
+    <string name="megan">- Hi, I am Megan.</string>
+    <string name="funny">Funny</string>
+    <string name="not_funny">Not funny</string>
+    <string name="share">Share</string>
+    <string name="dolphin">I am a Dolphin</string>
+</resources>
